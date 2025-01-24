@@ -1,6 +1,6 @@
 # Gamma_HW
 
-The following is a Jupyter notebook with a pythonprogram that can take text in a markdown format and can split into a number of sections between 1 to 5.
+The following is a Jupyter notebook with a python program that can take text in a markdown format and can split into a number of sections between 1 to 50. The instructions below explain how to use the program. More detailed explainations as to why each line of code was written will be present in the Jupyter Notebook.  
 
 How to use:
 1. Download the notebook and open in Jupyter Notebooks.
